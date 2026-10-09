@@ -1,0 +1,4 @@
+service,transactions,sales,expenses,profit,profit_margin
+Consulting,2,24000.0,14000,10000.0,41.66666666666667
+Data Analysis,2,21000.0,12500,8500.0,40.476190476190474
+Training,1,5000.0,4000,1000.0,20.0
